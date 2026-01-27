@@ -220,23 +220,21 @@
 <hr>
 <br>
 </div>
-
-<!-- <p align="left">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=evanzilin&show_icons=true&theme=radical" alt="evanzilin"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanzilin&hide=html,css&layout=compact&theme=radical" alt="evanzilin"/>
 </p>
 
 <p  align="Right">
 
-</p> -->
-<!-- <p align="left">
+</p>
+<p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanzilin&theme=radical" alt="evanzilin"/>
-</p>  -->
+</p>
 
-<!-- <div align='center' width='100%'>
+<div align='center' width='100%'>
   <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanzilin&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   <a width='50%' href="https://github.com/evanzilin?tab=achievements">
     <img src="https://github-profile-trophy.vercel.app/?username=evanzilin&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@evanzilin's trophy stats"/>
   </a>
-</div> -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evanzilin&theme=github_dark) -->
+</div>
