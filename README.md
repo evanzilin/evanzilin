@@ -1,3 +1,48 @@
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45" 
+    style="vertical-align: middle; margin-right: 10px;"
+  >
+<img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45" 
+    style="vertical-align: middle; margin-left: 10px;"
+  >
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45" 
+    style="vertical-align: middle; margin-left: 10px;"
+  >
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45" 
+    style="vertical-align: middle; margin-left: 10px;"
+  >
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45" 
+    style="vertical-align: middle; margin-left: 10px;"
+  >
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45" 
+    style="vertical-align: middle; margin-left: 10px;"
+  >
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45" 
+    style="vertical-align: middle; margin-left: 10px;"
+  >
+</p>
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=57&lines=Hi%2C+My+name+is+Amrit+Lamichhane%2C+I'm+a+Full+Stack+and+Blockchain+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A2F700&center=true&vCenter=true&width=1000&height=57&lines=What+I+can+do+is+Innovation+and+Creative!)](https://git.io/typing-svg)
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 ## 🧑‍💻 Tech Stack I Work With
 
 🎨 **Front-End:** React, Next.js, Remix, Vue.js, Angular, Redux, TailwindCSS, SCSS, JavaScript (ES6+), TypeScript, WordPress, Shopify, Go, AI 
@@ -43,10 +88,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
-      <br>Nest.js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
@@ -103,10 +144,6 @@
       <br>Ruby
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
-      <br>RestAPI
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="firebase" />
       <br>Firebase
     </td>
@@ -127,10 +164,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
       <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
-      <br>HTML
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
@@ -203,10 +236,6 @@
       <br>C#
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C++
-    </td>    
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=gitlab" alt="icon" width="55" height="55" />
       <br>GitLab
     </td>    
@@ -234,7 +263,4 @@
 
 <div align='center' width='100%'>
   <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanzilin&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/evanzilin?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=evanzilin&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@evanzilin's trophy stats"/>
-  </a>
 </div>
