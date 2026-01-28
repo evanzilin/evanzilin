@@ -249,18 +249,3 @@
 <hr>
 <br>
 </div>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=evanzilin&show_icons=true&theme=radical" alt="evanzilin"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanzilin&hide=html,css&layout=compact&theme=radical" alt="evanzilin"/>
-</p>
-
-<p  align="Right">
-
-</p>
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanzilin&theme=radical" alt="evanzilin"/>
-</p>
-
-<div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanzilin&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-</div>
