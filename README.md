@@ -39,7 +39,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=57&lines=Hi%2C+My+name+is+Evanziln%2C+I'm+a+Full+Stack+and+Blockchain+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=57&lines=Hi%2C+I'm+a+Full+Stack+and+Blockchain+Developer.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A2F700&center=true&vCenter=true&width=1000&height=57&lines=What+I+can+do+is+Innovation+and+Creative!)](https://git.io/typing-svg)
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
